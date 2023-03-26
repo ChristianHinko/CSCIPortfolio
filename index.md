@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical Programming](/pdf/EthicsPapers/EthicsPaper_SurveyOfScriptingLanguages.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** Survey of Scripting Languages
+-   **Grade:** 
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Decisive Ethics](/pdf/EthicsPapers/EthicsPaper_DataStructuresAnalysis.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Data Structures Analysis
+-   **Grade:** 
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Good Hacker](/pdf/EthicsPapers/EthicsPaper_ProceduralProgramming.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Procedural Programming
+-   **Grade:** 
 
 ---
 
