@@ -7,24 +7,24 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:cthinkle9@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Scheduling Algorithms | CSCI 431](Project_SchedulingAlgorithms)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Scheduling Algorithms](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Medical University Student Management | CSCI 495](Project_MedicalUniversityStudentManagement)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Medical University Student Management](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Graph Adjacency Matrix | CSCI 415](Project_GraphAdjacencyMatrix)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Graph Adjacency Matrix](images/dummy_thumbnail.jpg)
+
+---
+### [Battleship | CSCI 235](Project_Battleship)
+
+![Battleship](images/dummy_thumbnail.jpg)
 
 ---
 
