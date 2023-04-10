@@ -33,34 +33,33 @@ Ethics Papers
 
 ### [Ethical Programming](/pdf/EthicsPapers/EthicsPaper_SurveyOfScriptingLanguages.pdf)
 
--   **Class:** Survey of Scripting Languages
--   **Grade:** 
+- **Class:** Survey of Scripting Languages (CSCI 301)
+- **Grade:** A
 
 ### [Decisive Ethics](/pdf/EthicsPapers/EthicsPaper_DataStructuresAnalysis.pdf)
 
--   **Class:** Data Structures Analysis
--   **Grade:** 
+- **Class:** Data Structures Analysis (CSCI 315)
+- **Grade:** A
 
 ### [The Good Hacker](/pdf/EthicsPapers/EthicsPaper_ProceduralProgramming.pdf)
 
--   **Class:** Procedural Programming
--   **Grade:** 
+- **Class:** Procedural Programming (CSCI 235)
+- **Grade:** A
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Crypto Wallet Hardening](/pdf/Presentations/Crypto%20Wallet%20Hardening.pptx.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Cyber Defense (CSCI 352)
+- **Grade:** A
 
+### [Nord VPN Breach](/pdf/Presentations/Nord%20VPN%20Breach.pdf)
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+- **Class:** Survery of Scripting Languages (CSCI 301)
+- **Grade:** A
 
 ---
 
