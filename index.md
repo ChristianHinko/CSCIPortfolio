@@ -22,9 +22,9 @@ Programming Projects
 ![Graph Adjacency Matrix](images/dummy_thumbnail.jpg)
 
 ---
-### [Battleship | CSCI 235](Project_Battleship)
+### [Tree Binary Search | CSCI 415](Project_TreeBinarySearch)
 
-![Battleship](images/dummy_thumbnail.jpg)
+![Tree Binary Search](images/dummy_thumbnail.jpg)
 
 ---
 
