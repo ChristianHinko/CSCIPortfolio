@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Scheduling Algorithms | CSCI 431](Project_SchedulingAlgorithms)
 
-![Scheduling Algorithms](images/dummy_thumbnail.jpg)
+![Scheduling Algorithms](images/SchedulingAlgorithms.png)
 
 ---
 ### [Medical University Student Management | CSCI 495](Project_MedicalUniversityStudentManagement)
 
-![Medical University Student Management](images/dummy_thumbnail.jpg)
+![Medical University Student Management](images/MedicalUniversityStudentManagement.png)
 
 ---
 ### [Graph Adjacency Matrix | CSCI 415](Project_GraphAdjacencyMatrix)
 
-![Graph Adjacency Matrix](images/dummy_thumbnail.jpg)
+![Graph Adjacency Matrix](images/GraphAdjacencyMatrix.png)
 
 ---
 ### [Tree Binary Search | CSCI 415](Project_TreeBinarySearch)
 
-![Tree Binary Search](images/dummy_thumbnail.jpg)
+![Tree Binary Search](images/TreeBinarySearch.png)
 
 ---
 
